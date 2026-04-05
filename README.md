@@ -4,7 +4,7 @@
 
 ![OS](https://img.shields.io/badge/OS-Windows%2010%2B-0078D6.svg)
 
-![tool](https://img.shields.io/badge/tool-MIT-green?style=flat-square) ![Version](https://img.shields.io/badge/Version-1.2.2-blue?style=flat-square) ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=flat-square) ![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white) ![Stars](https://img.shields.io/github/stars/ivan-wilsondev93m6/aboba-free?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/ivan-wilsondev93m6/aboba-free?style=flat-square)
+![tool](https://img.shields.io/badge/tool-MIT-green?style=flat-square) ![Version](https://img.shields.io/badge/Version-1.2.3-blue?style=flat-square) ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=flat-square) ![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white) ![Stars](https://img.shields.io/github/stars/ivan-wilsondev93m6/aboba-free?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/ivan-wilsondev93m6/aboba-free?style=flat-square)
 
 Aboba — 🚀 Create real software effortlessly, no coding skills needed. Master beginner-friendly tools and methods with Vibe Coding for Dummies
 
